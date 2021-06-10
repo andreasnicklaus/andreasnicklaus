@@ -1,5 +1,6 @@
-<h1 style="text-align: center">Hi!</h1>
-<p style="text-align: center;">I'm Andi :smile:</p>
+Hi!
+
+I'm Andi :smile:
 
 I am a student of Computer Science and Media @ Hochschule der Medien in Stuttgart, Germany.
 

@@ -10,7 +10,7 @@
 
 ### BIO
 
-- 👨‍💼 I'm currently working on my [website](http://www.andreasnicklaus.de)
+- 👨‍💼 I'm currently working on [my website](http://www.andreasnicklaus.de)
 - ⚙️ I use daily `.py`, `.js`, `.vue`, `.html`, `.scss` and `.yaml`
 - 🌍 I'm mostly active on [**Instagram**](https://instagram.com/andreasnicklaus)
 - 👨‍🎓 Learning about **Robotics**

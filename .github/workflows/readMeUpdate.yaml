@@ -31,10 +31,10 @@ jobs:
         with:
           find: "{{date}}"
           replace: ${{ steps.date.outputs.date }}
-          include: readME.md
+          include: ./readME.md
 
       - name: Print readMe.md content
-        run: cat readMe.md
+        run: cat ./readMe.md
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0

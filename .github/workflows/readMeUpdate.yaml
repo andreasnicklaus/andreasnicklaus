@@ -30,7 +30,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "{{date}}"
-          replace: ${{ steps.date.outputs.date }}
+          replace: "${{ steps.date.outputs.date }}"
           include: ./readME.md
 
       - name: Print readMe.md content

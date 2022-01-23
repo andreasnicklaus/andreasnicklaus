@@ -15,4 +15,4 @@ Check out [andreasnicklaus.de 🔗](http://www.andreasnicklaus.de) to get to kno
 
 See you soon!
 
-(Last updated {{date}})
+(Last updated: {{date}})

@@ -23,14 +23,8 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
-      - name: echo date
-        run: echo ${{ steps.date.outputs.date }}
-
       - name: Find and Replace date in readME.md
-        run: sed "s/${{ steps.date.outputs.date }}/abc/" readME.template.md > readME.md
-
-      - name: Print readMe.md content
-        run: cat ./readME.md
+        run: sed "s/{{date}}/${{ steps.date.outputs.date }}/" readME.template.md > readME.md
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0

@@ -27,11 +27,7 @@ jobs:
         run: echo ${{ steps.date.outputs.date }}
 
       - name: Find and Replace date in readME.md
-        uses: jacobtomlinson/gha-find-replace@v2
-        with:
-          find: "{{date}}"
-          replace: "${{ steps.date.outputs.date }}"
-          include: ./readME.md
+        run: sed "s/${{ steps.date.outputs.date }}/abc/" readME.template.md > readME.md
 
       - name: Print readMe.md content
         run: cat ./readME.md

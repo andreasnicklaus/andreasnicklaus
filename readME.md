@@ -25,3 +25,5 @@
 Check out [andreasnicklaus.de 🔗](http://www.andreasnicklaus.de) to get to know me better.
 
 See you soon!
+
+(Last updated {{date}})

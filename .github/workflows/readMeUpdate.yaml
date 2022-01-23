@@ -34,7 +34,7 @@ jobs:
           include: ./readME.md
 
       - name: Print readMe.md content
-        run: cat ./readMe.md
+        run: cat ./readME.md
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0

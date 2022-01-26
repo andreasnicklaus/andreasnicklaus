@@ -1,3 +1,15 @@
+<h1 align="center">Hi! I'm Andi 😄 👋</h1>
+<p align="center">
+  <a href="http://www.andreasnicklaus.de">Website</a> •
+  <a href="https://instagram.com/andreasnicklaus">Instagram</a> •
+  <a href="https://www.linkedin.com/in/andreasnicklaus/">LinkedIn</a>
+</p>
+
+---
+
+**I am a student of Computer Science and Media 💻 at Hochschule der Medien in Stuttgart, 🇩🇪.**
+
+### BIO
 
 - 👨‍💼 I'm currently working on [my website](http://www.andreasnicklaus.de)
 - ⚙️ I use daily `.py`, `.js`, `.vue`, `.html`, `.scss` and `.yaml`

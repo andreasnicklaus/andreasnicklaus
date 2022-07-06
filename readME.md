@@ -27,4 +27,4 @@ Check out [andreasnicklaus.de 🔗](http://www.andreasnicklaus.de) to get to kno
 
 See you soon!
 
-(Last updated: 2022-01-26)
+(Last updated: 2022-07-06)

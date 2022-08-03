@@ -2,7 +2,8 @@
 <p align="center">
   <a href="http://www.andreasnicklaus.de">Website</a> •
   <a href="https://instagram.com/andreasnicklaus">Instagram</a> •
-  <a href="https://www.linkedin.com/in/andreasnicklaus/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/andreasnicklaus/">LinkedIn</a>  •
+  <a href="/blog">Blog</a>
 </p>
 
 ---
@@ -19,6 +20,7 @@
 - ⚡️ Fun Facts: I have experience as a professional basketball player and my idols are Surya Bonaly and Michael "Bully" Herbig.
 
 ### Favourite Programming Languages
+
 - Python 🐍
 - JavaScript **JS**
 - Java ☕
@@ -27,4 +29,4 @@ Check out [andreasnicklaus.de 🔗](http://www.andreasnicklaus.de) to get to kno
 
 See you soon!
 
-(Last updated: 2022-07-06)
+(Last updated: 2022-08-03)

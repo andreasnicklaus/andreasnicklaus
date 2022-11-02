@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [IBAN Regex](https://medium.com/@Andreas_Nicklaus/iban-regex-4ddc7b48d038?source=rss-664eb78e3c26------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

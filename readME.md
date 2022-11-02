@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/andreasnicklaus" target="blank"><img src="https://img.shields.io/twitter/follow/andreasnicklaus?logo=twitter&style=for-the-badge" alt="andreasnicklaus" /></a> </p>
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [IBAN Regex](https://medium.com/@Andreas_Nicklaus/iban-regex-4ddc7b48d038?source=rss-664eb78e3c26------2)
 <!-- BLOG-POST-LIST:END -->

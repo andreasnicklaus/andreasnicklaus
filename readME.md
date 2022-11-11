@@ -19,6 +19,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run your Vue.js app in Electron](https://medium.com/@Andreas_Nicklaus/how-to-run-your-vue-js-app-in-electron-aa10a8f9ebec?source=rss-664eb78e3c26------2)
 - [IBAN Regex](https://medium.com/@Andreas_Nicklaus/iban-regex-4ddc7b48d038?source=rss-664eb78e3c26------2)
 <!-- BLOG-POST-LIST:END -->
 

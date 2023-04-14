@@ -19,6 +19,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create an Instagram widget](https://medium.com/@Andreas_Nicklaus/how-to-create-an-instagram-widget-2fccfe1ef327?source=rss-664eb78e3c26------2)
 - [Fog Computing: Solving the limitations of Cloud and Edge Computing](https://medium.com/@Andreas_Nicklaus/fog-computing-solving-the-limitations-of-cloud-and-edge-computing-dc9f01a99fcc?source=rss-664eb78e3c26------2)
 - [How to run your Vue.js app in Electron](https://medium.com/@Andreas_Nicklaus/how-to-run-your-vue-js-app-in-electron-aa10a8f9ebec?source=rss-664eb78e3c26------2)
 - [IBAN Regex](https://medium.com/@Andreas_Nicklaus/iban-regex-4ddc7b48d038?source=rss-664eb78e3c26------2)

@@ -13,9 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasnicklaus&label=Profile%20views&color=0e75b6&style=flat" alt="andreasnicklaus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreasnicklaus" alt="andreasnicklaus" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/andreasnicklaus" target="blank"><img src="https://img.shields.io/twitter/follow/andreasnicklaus?logo=twitter&style=for-the-badge" alt="andreasnicklaus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreasnicklaus&rank=SSS,SS,S,AAA,AA,A,B,C" alt="andreasnicklaus" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -35,10 +33,10 @@
 
 ## Work
 
-- 👨‍💼 I'm currently working on [my website](http://www.andreasnicklaus.de)
+- 👨‍💼 I'm currently working on [Leto](https://leto.andreasnicklaus.de)
 - ⚙️ I use daily `.py`, `.js`, `.vue`, `.html`, `.scss` and `.yaml`
-- 🌍 I'm mostly active on [**Instagram**](https://instagram.com/andreasnicklaus)
-- 👨‍🎓 Learning about **Robotics, Statistics and Ultra Large Scale Systems**
+- 🌍 I'm mostly active on [Instagram](https://instagram.com/andreasnicklaus)
+- 👨‍🎓 Learning about **Robotics, Statistics and System Security**
 - 👯 I'm looking to collaborate on IoT projects and smart home projects.
 - 💬 Tell me all you know about **design, branding, individual website deployment, design patterns**
 - 📫 How to reach me: me@andreasnicklaus.de

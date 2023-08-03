@@ -58,11 +58,13 @@
 5. Shell 📟
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/andreasnicklaus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreasnicklaus" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasnicklaus&show_icons=true&locale=en&layout=compact" alt="andreasnicklaus" /></p>
+<p><a href="https://www.buymeacoffee.com/andreasnicklaus"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreasnicklaus" /></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreasnicklaus&show_icons=true&locale=en" alt="andreasnicklaus" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasnicklaus&show_icons=true&locale=en&layout=compact" alt="andreasnicklaus" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andreasnicklaus&show_icons=true&locale=en" alt="andreasnicklaus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreasnicklaus&" alt="andreasnicklaus" /></p>
 

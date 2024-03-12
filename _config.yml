@@ -1,6 +1,12 @@
 # theme: minima
+author:
+  name: Andreas Nicklaus
+  email: me@andreasnicklaus.de
+
 remote_theme: jekyll/minima
+
 plugins:
   - jekyll-remote-theme
+
 minima:
   skin: dark

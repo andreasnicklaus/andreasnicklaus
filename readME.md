@@ -36,11 +36,11 @@
 
 # Opinions
 
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?quote=The best guy ever!&author=His boss" alt="The best IT guy ever!"></p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?quote=The%20best%20guy%20ever!&author=His%20boss" alt="The best IT guy ever!"></p>
 
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?quote=His most impressive feature is that he is just better. At everything&author=His best friends" alt="THis most impressive feature is that he is just better. At everything"></p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?quote=His%20most%20impressive%20feature%20is%20that%20he%20is%20just%20better.%20At%20everything&author=His%20best%20friends" alt="THis most impressive feature is that he is just better. At everything"></p>
 
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?quote=I wish all the guys were like him&author=His girlfriend" alt="I wish all the guys were like him."></p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?quote=I%20wish%20all%20the%20guys%20were%20like%20him&author=His%20girlfriend" alt="I wish all the guys were like him."></p>
 
 # Blog posts
 

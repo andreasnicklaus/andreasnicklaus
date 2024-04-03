@@ -45,7 +45,6 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Optimierung einer VueJS-Webseite: Ladezeitenreduktion | Computer Science Blog @ HdM Stuttgart](https://medium.com/@Andreas_Nicklaus/optimierung-einer-vuejs-webseite-ladezeitenreduktion-computer-science-blog-hdm-stuttgart-f0496785ab17?source=rss-664eb78e3c26------2)
 - [Sicherheit und Langlebigkeit der Global-Tech-Player](https://medium.com/@Andreas_Nicklaus/sicherheit-und-langlebigkeit-der-global-tech-player-b8882073dbdc?source=rss-664eb78e3c26------2)
 - [How to create an Instagram widget](https://medium.com/@Andreas_Nicklaus/how-to-create-an-instagram-widget-2fccfe1ef327?source=rss-664eb78e3c26------2)

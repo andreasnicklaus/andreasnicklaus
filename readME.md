@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<p align="center"><b>I am a student of Computer Science and Media 💻 at Hochschule der Medien in Stuttgart, 🇩🇪.</b></p>
+<p align="center">I am a Computer Scientist and Software architect 💻 🇩🇪.</p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=andreasnicklaus&style=for-the-badge&base=1200&abbreviated=true" alt="Github Profile Views"/></p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreasnicklaus&theme=transparent" alt="Github Profile Card"/></p>

@@ -1,31 +1,29 @@
-<h1 align="center">Hi 👋, I'm Andi</h1>
-<p align="center">
-  Check out <a href="http://www.andreasnicklaus.de">andreasnicklaus.de</a>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andreasnicklaus/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/andreasnicklaus">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-  </a>
-  <a href="https://www.instagram.com/andreasnicklaus">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://medium.com/@Andreas_Nicklaus">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://twitter.com/AndreasNicklaus">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.buymeacoffee.com/andreasnicklaus">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee">
-  </a>
-</p>
+# Hi, I'm Andi :wave::basketball:
 
-<p align="center">I am a Computer Scientist and Software architect 💻 🇩🇪.</p>
+![](./github_header.svg)
+
+<a href="https://www.linkedin.com/in/andreasnicklaus/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/andreasnicklaus">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+</a>
+<a href="https://www.instagram.com/andreasnicklaus">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://medium.com/@Andreas_Nicklaus">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
+<a href="https://twitter.com/AndreasNicklaus">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="https://www.buymeacoffee.com/andreasnicklaus">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee">
+</a>
+
+## Check out some statistics :chart_with_upwards_trend::
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=andreasnicklaus&style=for-the-badge&base=1200&abbreviated=true" alt="Github Profile Views"/></p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreasnicklaus&theme=transparent" alt="Github Profile Card"/></p>
@@ -34,7 +32,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasnicklaus&show_icons=true&theme=transparent&hide_border=true&layout=compact" alt="Most Used Languages"/><img src="https://github-readme-stats.vercel.app/api?username=andreasnicklaus&show_icons=true&theme=transparent&hide_border=true" alt="Github Stats"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=andreasnicklaus&theme=transparent&hide_border=true&" alt="GitHub Streak"/></p>
 
-# Opinions
+## Read what others have to say :speech_balloon::
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?quote=The%20best%20guy%20ever!&author=His%20boss" alt="The best IT guy ever!"></p>
 
@@ -42,7 +40,7 @@
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?quote=I%20wish%20all%20the%20guys%20were%20like%20him&author=His%20girlfriend" alt="I wish all the guys were like him."></p>
 
-# Blog posts
+# Blog posts :newspaper::
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimierung einer VueJS-Webseite: Ladezeitenreduktion | Computer Science Blog @ HdM Stuttgart](https://medium.com/@Andreas_Nicklaus/optimierung-einer-vuejs-webseite-ladezeitenreduktion-computer-science-blog-hdm-stuttgart-f0496785ab17?source=rss-664eb78e3c26------2)
@@ -51,7 +49,7 @@
 - [Fog Computing: Solving the limitations of Cloud and Edge Computing](https://medium.com/@Andreas_Nicklaus/fog-computing-solving-the-limitations-of-cloud-and-edge-computing-dc9f01a99fcc?source=rss-664eb78e3c26------2)
 <!-- BLOG-POST-LIST:END -->
 
-# Languages
+# Languages :earth_africa::
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -73,7 +71,7 @@
 ![Webassembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-# Frameworks and Libraries
+# Frameworks and Libraries :wrench::
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angular&logoColor=white)
@@ -126,7 +124,7 @@
 ![Postesql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-# OS and Platforms
+# OS and Platforms :computer::
 
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -148,7 +146,7 @@
 ![Google Analytics](https://img.shields.io/badge/GoogleAnalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
 
-# Programs and IDEs
+# Programs and IDEs :pager::
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -170,5 +168,3 @@
 Check out [andreasnicklaus.de 🔗](http://www.andreasnicklaus.de) to get to know me better.
 
 See you soon!
-
-<a href="https://www.buymeacoffee.com/andreasnicklaus"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreasnicklaus" /></a>

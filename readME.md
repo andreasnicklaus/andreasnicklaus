@@ -23,6 +23,14 @@
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee">
 </a>
 
+---
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=andreas.nicklaus&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=andreas.nicklaus&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Now playing on Spotify">
+  </a>
+</p>
+
 ## Check out some statistics :chart_with_upwards_trend::
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=andreasnicklaus&style=for-the-badge&base=1200&abbreviated=true" alt="Github Profile Views"/></p>
